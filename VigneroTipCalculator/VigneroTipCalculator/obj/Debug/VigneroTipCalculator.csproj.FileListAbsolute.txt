@@ -1,0 +1,9 @@
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\bin\Debug\VigneroTipCalculator.exe.config
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\bin\Debug\VigneroTipCalculator.exe
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\bin\Debug\VigneroTipCalculator.pdb
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.csprojResolveAssemblyReference.cache
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.TipCalcForm.resources
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.Properties.Resources.resources
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.csproj.GenerateResource.Cache
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.exe
+c:\users\viggy\documents\visual studio 2015\Projects\VigneroTipCalculator\VigneroTipCalculator\obj\Debug\VigneroTipCalculator.pdb
